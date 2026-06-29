@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3eq080/T/v1
+canonical_location: https://kanripo.org/bkk/KR3eq080/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫醫十病
+  identifiers:
+    krp: KR3eq080
+  tags:
+    kr-categories: KR3eq
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq080.xml
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 1, filename: KR3eq080_001-T.yaml, hash: 'sha256:110744f06ce7875147ecac2c2f353e068ca0f1eeb12c98f4bb5c41360719f93b'}
+table_of_contents: []
+hash: sha256:40048f4496b43689f2803c51572f204dbd6eda380f02e1a8d4ca3a5cb635bdf5
