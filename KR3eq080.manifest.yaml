@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eq080/v1
 canonical_location: https://kanripo.org/bkk/KR3eq080/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 醫醫十病
   identifiers:
@@ -20,4 +20,4 @@ assets:
     filename: KR3eq080_001.yaml
     hash: sha256:110744f06ce7875147ecac2c2f353e068ca0f1eeb12c98f4bb5c41360719f93b
 table_of_contents: []
-hash: sha256:8845e99dc122005d71184943c772fa6920ce64d72d25a61099a94d4459f22d65
+hash: sha256:ecc5dff8a9a4371deefef37c804f25b48ab2a95550c436b0ae20d68dcca7c71b
